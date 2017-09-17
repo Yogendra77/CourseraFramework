@@ -3,6 +3,6 @@ Test Automation Framework for Coursera.
 
 Tools/Technologies 
 
-# C#
-# Selenium Webdriver
-# Nunit
+C#
+Selenium Webdriver
+Nunit
