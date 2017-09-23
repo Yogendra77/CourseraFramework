@@ -1,5 +1,5 @@
 # CourseraFramework
-Test Automation Framework for Coursera.
+Test Automation Framework for Coursera site.
 
 Tools/Technologies 
 
